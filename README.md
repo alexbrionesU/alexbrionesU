@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexbrionesU
-- 👀 I’m interested in the stock market
+- 👀 I’m interested in the stock market & high freq trading
 - 🌱 I’m currently learning machine learning
 - 📫 How to reach me: abrione5@asu.edu
 
